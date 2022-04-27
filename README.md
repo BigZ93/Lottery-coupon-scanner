@@ -1,1 +1,1 @@
-# Lottery-coupon-scanner-for-Android
+# Lottery-coupon-scanner
